@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Hilton
+title: Justice Ogbonna
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Hilton is a super simple portfolio theme for Jekyll.
+description: Software Engineer | Entrepreneur | Investor.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -29,16 +29,16 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Monica Hilton
-  author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
-  author__avatar: '/images/01-1.jpg'
+  author__name: Justice Ogbonna
+  author__bio: I am a Software Engineer @ Google and the founder of Bitosoft. I like to work on human-centered tech. I have built websites, mobile apps, restful APIs, chrome extensions and also taught programming classes.
+  author__avatar: '/images/justice_ogbonna_face_focus.JPG'
 
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion-logo-github", link: "https://github.com"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/@justice_mode"}
+- {icon: "ion-logo-facebook", link: "https://facebook.com/justice.ogb"}
+- {icon: "ion-logo-instagram", link: "https://instagram.com/justice.ogbonna"}
+- {icon: "ion-logo-linkedin", link: "https://linkedin.com/in/justiceogbonna"}
+- {icon: "ion-logo-github", link: "https://github.com/justiceo"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
@@ -47,9 +47,9 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Monica. I will create design that can give you value
-  hero__description: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
-  hero__image: '/images/01.jpg'
+  hero__title: I'm Justice. I will design and build software that can give you value
+  hero__description: The easiest-to-maintain software will eventually win. It will continue to run after the alternatives have folded due to lack of time, money or skill. If you are working on a new techy product and you want to keep it growing when the going gets tough (because it will get tough), let's talk about your project in more detail
+  hero__image: '/images/justice_ogbonna_sitting_down.JPG'
 
 
 #-------------------------------
@@ -57,14 +57,14 @@ hero:
 mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
 mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
 mailchimp__input__text: Your email address...
-mailchimp__button__text: Get updates
+mailchimp__button__text: Say Hello
 
 
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Latest works
-  projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  projects__title: Latest projects
+  projects__description: I write code as a hobby and below are some of my pet projects.
 
 
 #-------------------------------
@@ -139,15 +139,13 @@ footer_menu__settings:
       title: 'About'
     - url: '/contact/'
       title: 'Contact'
-    - url: '/elements/'
-      title: 'Elements'
 
 
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your form_id
-  description: Hilton comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: dev@justiceo.com # Add your form_id
+  description: Fill the form below to get in touch. I'll get back to you within 24 hours.
 
 # NOTE
 # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -155,9 +153,9 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: justiceo # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your GA Tracking Id
+google-analytics: UA-41478922-1
