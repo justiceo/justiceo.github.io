@@ -47,8 +47,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Justice. I will design and build software that can give you value
-  hero__description: The easiest-to-maintain software will eventually win. It will continue to run after the alternatives have folded due to lack of time, money or skill. If you are working on a new techy product and you want to keep it growing when the going gets tough (because it will get tough), let's talk about your project in more detail
+  hero__title: I'm Justice. I will build software that can give you value
+  hero__description: The easiest-to-maintain software will eventually win. It will continue to run after the alternatives have folded due to lack of time, money or skill. If you want to keep your new techy product growing when the going gets tough (because it will get tough), hit me up!
   hero__image: '/images/justice_ogbonna_sitting_down.JPG'
 
 
