@@ -16,14 +16,8 @@ menu__settings:
       url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+    - title: 'Contact'
+      url: '/contact/'
 
 
 #-------------------------------
@@ -47,7 +41,7 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Justice. I will build software that can give you value
+  hero__title: I will build software that can give you value
   hero__description: The easiest-to-maintain software will eventually win. It will continue to run after the alternatives have folded due to lack of time, money or skill. If you want to keep your new techy product growing when the going gets tough (because it will get tough), hit me up!
   hero__image: '/images/justice_ogbonna_sitting_down.JPG'
 
@@ -64,7 +58,7 @@ mailchimp__button__text: Say Hello
 # Projects Settings
 projects__settings:
   projects__title: Latest projects
-  projects__description: I write code as a hobby and below are some of my pet projects.
+  projects__description: I write code as a hobby and below are some things I've created or currently work on in my pastime.
 
 
 #-------------------------------
@@ -115,14 +109,14 @@ blog__settings:
 # Gallery Footer Settings
 gallery:
   gallery__images:
-    - alt: 'Rest'
-      url: '/images/gallery-1.jpg'
+    - alt: 'Office'
+      url: '/images/justice_ogbonna_in_office.jpg'
     - alt: 'Lifestyle'
-      url: '/images/gallery-2.jpg'
+      url: '/images/justice_ogbonna_cooking.jpg'
     - alt: 'Hobby'
-      url: '/images/gallery-3.jpg'
+      url: '/images/justice_ogbonna_india.jpg'
     - alt: 'Notes'
-      url: '/images/gallery-4.jpg'
+      url: '/images/justice_ogbonna_sap_center.jpg'
 
 
 #-------------------------------
@@ -144,7 +138,7 @@ footer_menu__settings:
 #-------------------------------
 # Contact Settings
 contact:
-  email: dev@justiceo.com # Add your form_id
+  email: xzbwjzqn # Formspree form id.
   description: Fill the form below to get in touch. I'll get back to you within 24 hours.
 
 # NOTE
