@@ -25,7 +25,7 @@ menu__settings:
 author:
   author__name: Justice Ogbonna
   author__bio: I am a Software Engineer @ Google and the founder of Bitosoft. I like to work on human-centered tech. I have built websites, mobile apps, restful APIs, chrome extensions and also taught programming classes.
-  author__avatar: '/images/justice_ogbonna_face_focus.JPG'
+  author__avatar: '/images/justice_ogbonna_face_focus.jpeg'
 
 social:
 - {icon: "ion-logo-twitter", link: "https://twitter.com/@justice_mode"}
