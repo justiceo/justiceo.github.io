@@ -109,24 +109,18 @@ blog__settings:
 # Gallery Footer Settings
 gallery:
   gallery__images:
-    - alt: 'Office'
-      url: '/images/generated/portraits/IMG_3702-502x502.jpg'
-    - alt: 'Lifestyle'
+    - alt: 'Lifestyle portrait'
       url: '/images/generated/portraits/IMG_3707-502x502.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/generated/portraits/IMG_3711-502x502.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/generated/portraits/IMG_3744-502x502.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/generated/portraits/IMG_3751-502x502.jpg'
-    - alt: 'Lifestyle'
+    - alt: 'Lifestyle portrait'
+      url: '/images/generated/portraits/IMG_3730-502x502.jpg'
+    - alt: 'Lifestyle portrait'
+      url: '/images/generated/portraits/IMG_3754-502x502.jpg'
+    - alt: 'Lifestyle portrait'
       url: '/images/generated/portraits/IMG_3760-502x502.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/generated/portraits/IMG_3762-502x502.jpg'
-    - alt: 'Lifestyle'
+    - alt: 'Lifestyle portrait'
       url: '/images/generated/portraits/IMG_3768-502x502.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/generated/portraits/IMG_3772-502x502.jpg'
+    - alt: 'Lifestyle portrait'
+      url: '/images/generated/portraits/IMG_3772-gray-502x502.jpg'
 
 
 #-------------------------------

@@ -17,7 +17,7 @@
 /* Footer Gallery */
 .footer__gallery {
   .gallery {
-    grid-template-columns: repeat(4, auto);
+    grid-template-columns: repeat(6, auto);
     margin-left: 0;
     margin-bottom: 0;
 
@@ -36,7 +36,7 @@
 
   @media only screen and (max-width: $desktop) {
     .gallery {
-      grid-template-columns: repeat(2, auto);
+      grid-template-columns: repeat(3, auto);
     }
   }
 }
