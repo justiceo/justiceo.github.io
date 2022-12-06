@@ -23,10 +23,10 @@ collections:
     output: true
     permalink: /:name
   posts:
-    output: false
+    output: true
     permalink: /blog/:slug
   projects:
-    output: false
+    output: true
     permalink: /project/:slug
 
 # Pages Path
