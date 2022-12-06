@@ -43,7 +43,7 @@ social:
 hero:
   hero__title: I will build software that can give you value
   hero__description: The easiest-to-maintain software will eventually win. It will continue to run after the alternatives have folded due to lack of time, money or skill. If you want to keep your new techy product growing when the going gets tough (because it will get tough), hit me up!
-  hero__image: '/images/justice_ogbonna_sitting_down.JPG'
+  hero__image: '/images/generated/portraits/IMG_3722-502x502.jpg'
 
 
 #-------------------------------
@@ -110,13 +110,23 @@ blog__settings:
 gallery:
   gallery__images:
     - alt: 'Office'
-      url: '/images/justice_ogbonna_in_office.jpg'
+      url: '/images/generated/portraits/IMG_3702-502x502.jpg'
     - alt: 'Lifestyle'
-      url: '/images/justice_ogbonna_cooking.jpg'
-    - alt: 'Hobby'
-      url: '/images/justice_ogbonna_india.jpg'
-    - alt: 'Notes'
-      url: '/images/justice_ogbonna_sap_center.jpg'
+      url: '/images/generated/portraits/IMG_3707-502x502.jpg'
+    - alt: 'Lifestyle'
+      url: '/images/generated/portraits/IMG_3711-502x502.jpg'
+    - alt: 'Lifestyle'
+      url: '/images/generated/portraits/IMG_3744-502x502.jpg'
+    - alt: 'Lifestyle'
+      url: '/images/generated/portraits/IMG_3751-502x502.jpg'
+    - alt: 'Lifestyle'
+      url: '/images/generated/portraits/IMG_3760-502x502.jpg'
+    - alt: 'Lifestyle'
+      url: '/images/generated/portraits/IMG_3762-502x502.jpg'
+    - alt: 'Lifestyle'
+      url: '/images/generated/portraits/IMG_3768-502x502.jpg'
+    - alt: 'Lifestyle'
+      url: '/images/generated/portraits/IMG_3772-502x502.jpg'
 
 
 #-------------------------------
