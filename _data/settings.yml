@@ -107,20 +107,20 @@ blog__settings:
 
 #-------------------------------
 # Gallery Footer Settings
-gallery:
-  gallery__images:
-    - alt: 'Lifestyle portrait'
-      url: '/images/generated/portraits/IMG_3707-502x502.jpg'
-    - alt: 'Lifestyle portrait'
-      url: '/images/generated/portraits/IMG_3730-502x502.jpg'
-    - alt: 'Lifestyle portrait'
-      url: '/images/generated/portraits/IMG_3754-502x502.jpg'
-    - alt: 'Lifestyle portrait'
-      url: '/images/generated/portraits/IMG_3760-502x502.jpg'
-    - alt: 'Lifestyle portrait'
-      url: '/images/generated/portraits/IMG_3768-502x502.jpg'
-    - alt: 'Lifestyle portrait'
-      url: '/images/generated/portraits/IMG_3772-gray-502x502.jpg'
+# gallery:
+#   gallery__images:
+#     - alt: 'Lifestyle portrait'
+#       url: '/images/generated/portraits/IMG_3707-502x502.jpg'
+#     - alt: 'Lifestyle portrait'
+#       url: '/images/generated/portraits/IMG_3730-502x502.jpg'
+#     - alt: 'Lifestyle portrait'
+#       url: '/images/generated/portraits/IMG_3754-502x502.jpg'
+#     - alt: 'Lifestyle portrait'
+#       url: '/images/generated/portraits/IMG_3760-502x502.jpg'
+#     - alt: 'Lifestyle portrait'
+#       url: '/images/generated/portraits/IMG_3768-502x502.jpg'
+#     - alt: 'Lifestyle portrait'
+#       url: '/images/generated/portraits/IMG_3772-gray-502x502.jpg'
 
 
 #-------------------------------
