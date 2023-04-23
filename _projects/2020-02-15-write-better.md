@@ -3,6 +3,7 @@ title: Write Better
 date: 2020-02-15 08:10:35 +0700
 subtitle: Chrome Extension
 image: '/images/project-example-1.jpg'
+tags:   [browser extension]
 ---
 
 In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si table quiduse proactive domination.
