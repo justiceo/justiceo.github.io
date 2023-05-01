@@ -2,7 +2,7 @@
 title: Write Better
 date: 2020-02-15 08:10:35 +0700
 subtitle: Chrome Extension
-image: '/images/project-example-1.jpg'
+image: '/images/write-better.png'
 tags:   [browser extension]
 ---
 

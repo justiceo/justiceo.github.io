@@ -2,7 +2,7 @@
 title: Essential Kit
 date: 2023-01-01 08:10:35 +0700
 subtitle: Chrome Extension
-image: '/images/project-example-1.jpg'
+image: '/images/essentialkit-header.jpeg'
 ---
 
 ## The browser is the new desktop OS
