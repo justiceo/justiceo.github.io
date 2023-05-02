@@ -1,5 +1,5 @@
 ---
-title: Audate Voice Search
+title: Voice Search
 date: 2022-11-18 08:10:35 +0700
 subtitle: Chrome Extension
 image: '/images/voice-search.png'
