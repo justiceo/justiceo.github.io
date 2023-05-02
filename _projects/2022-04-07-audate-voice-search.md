@@ -2,7 +2,7 @@
 title: Audate Voice Search
 date: 2022-11-18 08:10:35 +0700
 subtitle: Chrome Extension
-image: '/images/project-audate-voice-search.png'
+image: '/images/voice-search.png'
 ---
 
 This voice search extension is part of my effort to bring voice forward experiences to the browser.
