@@ -95,6 +95,11 @@
   <script type="text/javascript">
     particlesJS.load('content', 'particles.json', function() {
   console.log('callback - particles.js config loaded');
+  setTimeout(() => {
+    const cv = document.querySelector('canvas');
+    document.querySelector('canvas').parentElement.removeChild(cv)
+    document.querySelector('.rightcontent').prepend(cv);
+  }, 500);
 });
     </script>
 </body>
